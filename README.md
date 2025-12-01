@@ -59,7 +59,7 @@ particularly significant differences between the available scheduling policies.
 
 
 [1]: https://github.com/grame-cncm/faust
-[2]: https://github.com/orlarey/faustcompilerbenchtool
+[2]: https://github.com/grame-cncm/faustcompilerbenchtool
 [3]: https://perfmon2.sourceforge.net/
 [4]: https://github.com/grame-cncm/faust/tree/master-dev/examples
 
